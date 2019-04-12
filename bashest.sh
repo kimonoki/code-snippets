@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# boolean in bash
 AUTO=true
 
 if ["AUTO"= true] ; then
