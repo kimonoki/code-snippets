@@ -1,2 +1,2 @@
-# js-snippets
-exercises, trail practices, and more
+# code-snippets
+exercises and playground
