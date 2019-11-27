@@ -7,7 +7,7 @@ var reverse = function (x) {
         return 0;
     }
     var arr = x.toString(10).replace(/\D/g, '0').split('').map(Number);
-    if (arr[0] ===0) {
+    if (arr[0] === 0) {
         arr.shift();
         return -Number(arr.reverse().join(""));
     }
